@@ -8,7 +8,7 @@
 body{
     font-size: 62.5%;
     font-family: 'Poppins', sans-serif;
-    width: 100%;
+    width: 100%; 
     height: 100%;
     background: linear-gradient(to bottom right, #210cae , #4dc9e6);
     display: flex;
